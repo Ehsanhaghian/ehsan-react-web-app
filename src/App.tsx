@@ -4,7 +4,7 @@ import Labs from "./Labs";
 function App() {
   return (
     <div>
-      <h1>Jose Annunziato</h1>
+      <h1>Ehsan Haghian</h1>
       <Labs />
       {/* Kanbas */}
       <a href="https://github.com/Ehsanhaghian/ehsan-react-web-app">
